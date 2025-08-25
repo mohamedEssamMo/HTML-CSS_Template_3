@@ -1177,6 +1177,7 @@ header .nav li.click:hover > .megamenu{
 }
 .event .container .info .times .time span{
     display: block;
+    font-size: .8rem;
 }
 .event .container .info .times .time span:first-child{
     padding: 30px 10px;
